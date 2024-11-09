@@ -17,7 +17,7 @@ This project aims to leverage deep learning techniques to predict protein second
 - Evaluated the model on a test dataset and calculated accuracy.
 
 ## Results
-The model achieved an accuracy of 40.97% on the test set, suggesting potential areas for refinement and further development.
+The model achieved an accuracy of 75.97% on the test set, suggesting potential areas for refinement and further development.
 
 ## Conclusion
 The project demonstrates the application of deep learning to computational biology, with initial results showing promise and indicating future directions for enhancing model performance.
